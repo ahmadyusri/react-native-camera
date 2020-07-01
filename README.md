@@ -1,8 +1,8 @@
 # NOTE
 This package was updated from https://react-native-community.github.io/react-native-camera
-with changes according to my application needs
+with changes according to my application needs, All Program Codes are from https://www.npmjs.com/package/react-native-camera
 
-# React Native Camera Tools [![npm version](https://badge.fury.io/js/react-native-camera-tools.svg)](http://badge.fury.io/js/react-native-camera-tools) [![npm downloads](https://img.shields.io/npm/dm/react-native-camera-tools.svg)](https://www.npmjs.com/package/react-native-camera-tools)
+# React Native Camera Tools [![Backers on Open Collective](https://opencollective.com/react-native-camera/backers/badge.svg)](#backers) [![npm version](https://badge.fury.io/js/react-native-camera-tools.svg)](http://badge.fury.io/js/react-native-camera-tools) [![npm downloads](https://img.shields.io/npm/dm/react-native-camera-tools.svg)](https://www.npmjs.com/package/react-native-camera-tools)
 
 #### How to use master branch?
 
