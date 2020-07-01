@@ -1,0 +1,22 @@
+{
+  "name": "react-native-camera-tools",
+  "version": "1.0.0",
+  "description": "React Native Camera From react-native-camera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadyusri/react-native-camera.git"
+  },
+  "keywords": [
+    "react-native-camera"
+  ],
+  "author": "Ahmad Yusri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadyusri/react-native-camera/issues"
+  },
+  "homepage": "https://github.com/ahmadyusri/react-native-camera#readme"
+}
