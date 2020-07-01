@@ -1,6 +1,6 @@
 {
   "name": "react-native-camera-tools",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "React Native Camera From react-native-camera",
   "main": "index.js",
   "scripts": {
