@@ -1,4 +1,14 @@
-# React Native Camera [![Backers on Open Collective](https://opencollective.com/react-native-camera/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-native-camera/sponsors/badge.svg)](#sponsors) [![npm version](https://badge.fury.io/js/react-native-camera.svg)](http://badge.fury.io/js/react-native-camera) [![npm downloads](https://img.shields.io/npm/dm/react-native-camera.svg)](https://www.npmjs.com/package/react-native-camera)
+# NOTE
+This package was updated from https://react-native-community.github.io/react-native-camera
+with changes according to my application needs
+
+# React Native Camera Tools [![npm version](https://badge.fury.io/js/react-native-camera-tools.svg)](http://badge.fury.io/js/react-native-camera-tools) [![npm downloads](https://img.shields.io/npm/dm/react-native-camera-tools.svg)](https://www.npmjs.com/package/react-native-camera-tools)
+
+#### How to use master branch?
+
+We recommend using the releases from npm, however if you need some features that are not published on npm yet you can install react-native-camera-tools from git.
+
+**npm**: `npm i react-native-camera-tools`
 
 ## Docs
 Follow our docs here [https://react-native-community.github.io/react-native-camera/](https://react-native-community.github.io/react-native-camera/)
@@ -86,14 +96,6 @@ Supports:
 ```jsx
 import { RNCamera, FaceDetector } from 'react-native-camera';
 ```
-
-#### How to use master branch?
-
-We recommend using the releases from npm, however if you need some features that are not published on npm yet you can install react-native-camera from git.
-
-**yarn**: `yarn add react-native-camera@git+https://git@github.com/react-native-community/react-native-camera.git`
-
-**npm**: `npm install --save react-native-camera@git+https://git@github.com/react-native-community/react-native-camera.git`
 
 ### Contributing
 

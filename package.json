@@ -1,6 +1,6 @@
 {
   "name": "react-native-camera-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Camera From react-native-camera",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ahmadyusri/react-native-camera/issues"
   },
-  "homepage": "https://github.com/ahmadyusri/react-native-camera#readme"
+  "homepage": "https://github.com/ahmadyusri/react-native-camera#readme",
+  "dependencies": {
+    "np": "^6.2.5"
+  }
 }
